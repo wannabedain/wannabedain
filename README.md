@@ -10,8 +10,9 @@
 
 
 <h1 align="center">
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannabedain&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannabedain&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 </h1>
 
 #### Top Repositories
