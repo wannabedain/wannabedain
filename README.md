@@ -26,5 +26,5 @@
 
 
 <a href="https://github.com/wannabedain/diet_2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wannabedain&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://diet_2021.vercel.app/api/pin/?username=wannabedain&repo=diet_2021&theme=buefy" />
 </a>
