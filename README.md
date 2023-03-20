@@ -5,9 +5,7 @@
 <h1 align="center">   wannabedain : 언젠가는 되겠지 </h1>
 </br></br></br>
 
-
 - 📈 statistics 
-
 - ❤️ I love writing 
 
 
