@@ -8,7 +8,7 @@
 
 - 📈 statistics 
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing 
 
 - 💬 Ask me about anything [here](https://github.com/wannabedain)
 
