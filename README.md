@@ -25,19 +25,17 @@
 #### Top Repositories
 
 
-<a href="https://github.com/wannabedain/github-readme-stats">
+<a href="https://github.com/wannabedain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wannabedainrepo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/wannabedain/anuraghazra.github.io">
+<a href="https://github.com/wannabedain.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wannabedain&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="wannabedain | Twitter" width="21px" src="https://raw.githubusercontent.com/wannabedain/wannabedain/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/wannabedain/wannabedain/master/assets/codesandbox.svg" />
+<a href="https://codesandbox.io/u/wannabedain">
+  <img align="right" alt="wannabedain | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/wannabedain/wannabedain/master/assets/codesandbox.svg" />
 </a>
