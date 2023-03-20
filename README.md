@@ -14,7 +14,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 </h1>
-
-#### Top Repositories
-
-[![Readme Card](https://diet_2021.vercel.app/api/pin/?wannabedain&repo=diet_2021)](https://github.com/wannabedain/diet_2021)
