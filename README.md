@@ -1,9 +1,10 @@
 
-<h1 align="center">  About me <span style="color:blue">wannabedain</span>언젠가는 되겠지</h1>
+### Hi there 👋
+
+
+<h1 align="center">   wannabedain : 언젠가는 되겠지 </h1>
 </br></br></br>
 
-
-### Hi there 👋
 
 - 📈 statistics 
 
