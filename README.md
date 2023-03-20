@@ -2,8 +2,9 @@
 
 
 
+<h1 align="center">  **About me** <span style="color:pink"> wannabedain </span> 언젠가는 되겠지 </h1>
+</br></br></br>
 
-**About me**
 
 
 - 📈 statistics 
