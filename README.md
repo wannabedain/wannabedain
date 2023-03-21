@@ -33,12 +33,15 @@
 > - [Status_of_restaurant_industry](https://github.com/wannabedain/Current-status-of-the-restaurant-industry) : 신용카드로 보는 요식업 동향 분석
 > - [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석
 > - [prediction-of-airplane](https://github.com/wannabedain/prediction-of-airplane) : 비행기 가격은 왜 다를까?
+<br>
 
 
 # Study
 > - [Job-Care-Recommendation-Algorithm](https://github.com/wannabedain/Job-Care-Recommendation-Algorithm) : 잡케어 추천 알고리즘 경진대회
 
-# 📜Certificate📜
+<br>
+
+# Certificate
 > - 사회조사분석사2급
 > - ADSP
 > - SQLD     
@@ -46,6 +49,4 @@
     
 <p>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mitr&pause=1000&color=13EAC8F2&background=FFFFFFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%8C%B1+Let's+do+out+best+in+everything.+%F0%9F%8C%B1" alt="Typing SVG" /></a>        
-
 
