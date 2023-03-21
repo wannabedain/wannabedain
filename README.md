@@ -3,7 +3,7 @@
 
 
 <h1 align="center">   wannabedain : 언젠가는 되겠지 </h1>
-</br></br></br>
+</br></br>
 
 <h3 align="center"> - 📈 I am majoring in statistics  </h3>
 
