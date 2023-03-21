@@ -1,4 +1,5 @@
 
+
 ### Hi there 👋
 
 <h1 align="center">   wannabedain : 언젠가는 되겠지 </h1>
@@ -17,12 +18,20 @@
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">'
-    
+</br>
 
-![wannabedain's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabedain)
+<h3 align="center">🌈 About Me 🌈</h3>
+<p align="center">
+  <a href="https://www.instagram.com/dain_osaur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain_osaur/"/></a>&nbsp
+  <a href="mailto:wjdekdls0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdekdls0000@gmail.com"/></a>
+</p>
+
+
+
+![wannabedain's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabedain)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&hide=javascript,css)](https://github.com/wannabedain/github-readme-stats)
 
-</br>
+
     
 # Project
 >  [Road diet](https://github.com/wannabedain/diet_2021) : 서울시 빅데이터 기반 도로 다이어트 권장 지역 모델
