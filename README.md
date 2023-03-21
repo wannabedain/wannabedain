@@ -1,4 +1,5 @@
 
+
 ### Hi there 👋
 
 <h1 align="center">   wannabedain : 언젠가는 되겠지 </h1>
@@ -19,7 +20,7 @@
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">'
     
 
-
+[![hen-ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabedain)</br>
 
 
     
