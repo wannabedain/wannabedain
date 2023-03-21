@@ -6,9 +6,6 @@
 
 <h3 align="center"> - 📈 I am majoring in statistics  </h3>
 
-</br>
-<h3 align="center"> ================================ </h3>
-</br>
 
 <h3 align="center"> 📚Tech Skills📚 </h3>
 <div align=center>     
