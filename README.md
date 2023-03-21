@@ -33,8 +33,6 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffC0CB&height=300&section=header&text=HoLim%20LEE&fontSize=90)
-
 
 
 <h2 align="left">🛠Tools🛠</h3>
