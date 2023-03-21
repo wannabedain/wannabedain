@@ -18,7 +18,7 @@
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">'
-</br>
+</br></br>
 
 <h3 align="center">🌈 About Me 🌈</h3>
 <p align="center">
@@ -52,10 +52,10 @@
 <br>
 
 # Certificate
-> - 사회조사분석사2급
-> - ADSP
-> - SQLD     
-> - 빅데이터분석기사
+> 사회조사분석사2급
+> ADSP
+> SQLD     
+> 빅데이터분석기사
     
 <p>
 </h3>
