@@ -11,7 +11,7 @@
 
 </br></br>
 <h3 align="center"> ================================ </h3>
-</br></br>
+</br>
 
 <h3 align="center"> 📚Tech Skills📚 </h3>
 <div align=center>     
