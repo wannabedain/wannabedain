@@ -29,7 +29,7 @@
 
 
 ![wannabedain's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabedain)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&hide=javascript,css)](https://github.com/wannabedain/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&hide=javascript,css)]
 
 
     
