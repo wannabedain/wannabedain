@@ -41,13 +41,13 @@
 >  [Hotel Review Based Recommendation System](https://github.com/wannabedain/Hotel-Review-Based-Recommendation-System) : 호텔 리뷰 기반 만족도 예측 및 추천 시스템 <br>
 >  [Datacreator](https://github.com/wannabedain/Datacreator_2022_befour) : 이미지 분류 신경망 네트워크 모델링 <br>
 >  [Status of restaurant industry](https://github.com/wannabedain/Current-status-of-the-restaurant-industry) : 신용카드로 보는 요식업 동향 분석 <br>
->  [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석 <br>
 >  [prediction of airplane](https://github.com/wannabedain/prediction-of-airplane) : 비행기 가격은 왜 다를까? <br>
 <br>
 
 
 # Study
->  [Job Care Recommendation Algorithm](https://github.com/wannabedain/Job-Care-Recommendation-Algorithm) : 잡케어 추천 알고리즘 경진대회 
+>  [Job Care Recommendation Algorithm](https://github.com/wannabedain/Job-Care-Recommendation-Algorithm) : 잡케어 추천 알고리즘 경진대회  <br>
+>  [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석 <br>
 
 <br>
 
