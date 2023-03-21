@@ -22,7 +22,7 @@
 
 <h3 align="center">🌈 About Me 🌈</h3>
 <p align="center">
-  <a href="https://www.instagram.com/dain_osaur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain__osaur/"/></a>&nbsp
+  <a href="https://www.instagram.com/dain__osaur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain__osaur/"/></a>&nbsp
   <a href="mailto:wjdekdls0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdekdls0000@gmail.com"/></a>
 </p>
 
@@ -47,6 +47,7 @@
 
 # Study
 >  [Job Care Recommendation Algorithm](https://github.com/wannabedain/Job-Care-Recommendation-Algorithm) : 잡케어 추천 알고리즘 경진대회  <br>
+>  [Classifying Smart Factory Product Quality Status](https://github.com/wannabedain/Classifying-Smart-Factory-Product-Quality-Status) : 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤 <br>
 >  [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석 <br><br>
 <br>
 
