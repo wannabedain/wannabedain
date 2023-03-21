@@ -1,15 +1,12 @@
 
 ### Hi there 👋
 
-
 <h1 align="center">   wannabedain : 언젠가는 되겠지 </h1>
-</br></br>
+</br>
 
 <h3 align="center"> - 📈 I am majoring in statistics  </h3>
 
-   
-
-</br></br>
+</br>
 <h3 align="center"> ================================ </h3>
 </br>
 
