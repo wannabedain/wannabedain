@@ -52,9 +52,9 @@
 <br>
 
 # Certificate
-> 사회조사분석사2급
-> ADSP
-> SQLD     
+> 사회조사분석사2급 <br>
+> ADSP <br>
+> SQLD <br> 
 > 빅데이터분석기사
     
 <p>
