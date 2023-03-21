@@ -10,84 +10,39 @@
 <h3 align="center"> 📚Tech Skills📚 </h3>
 <div align=center>     
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
     <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>   
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">'
     
 
 
 
-<h3 align="center">😆 About Me 😆</h3>
 
-
-<p align="center">
-  <a href="https://www.instagram.com/dain__osaur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:wjdekdls0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
-</br>
-</br>
-
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=wannabedain&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&theme=buefy&hide_border=true" /></a> 
-
-
-
-
-
-<h2 align="left">🛠Tools🛠</h3>
-<div align="left">
-    
-**Tools that I've used at least once**
-
-</div>    
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/RapidMiner-005666?style=flat-square"/></a>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<br>
-
-</p>
-
-
-</div>    
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lo-lim&layout=compact&hide=javascript,css)](https://github.com/lo-lim/github-readme-stats)
-
-<h2 align="left">:mailbox_with_mail:Contacts:mailbox_with_mail:</h3>
-<p align="left">
-<a href="https://dlghfla9@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://dlghfla9i@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<a href="https://dlghfla0820@naver.com">
-    <img src="http://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://dlghfla0820@naver.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</p>   
     
 # Project
-> - [Hospital opening & closing](https://github.com/lo-lim/Hospital-opening-or-closing) : Hospital Opening & Closing Classification Prediction project 
-> - [Idea Proposal](https://github.com/lo-lim/idea_proposal) : Data Analysis Idea Proposal
-> - [Casptone](https://github.com/lo-lim/Casptone)  : Casptone Design 🏫
-> - [AI ESG job experence](https://github.com/lo-lim/AI-job-experience-for-non-majors) : Development of tourism Q&A chatbot model  
-> - [Local Security](https://github.com/lo-lim/local-security) : Regional Public Safety Data Analysis Contest 🚓
+> - [Road_diet](https://github.com/wannabedain/diet_2021) : 서울시 빅데이터 기반 도로 다이어트 권장 지역 모델
+> - [Minwon](https://github.com/wannabedain/minwon_2021) : [인천시청] 미추홀구 흡연 민원지역 분석 및 금연구역 추천
+> - [Improvement_of_Transportation_Facilities_for_the_Disabled](https://github.com/wannabedain/Improvement-of-Transportation-Facilities-for-the-Disabled)  : [인천시청]저상버스 운행노선 및 임차택시 중심 체류지 추천
+> - [Prediction_of_Subway_Demand(line4)](https://github.com/wannabedain/Prediction-of-Subway-Demand-for-Line-4) : 딥러닝을 활용한 4호선 지하철 수요 예측
+> - [Hotel_Review_Based_Recommendation_System](https://github.com/wannabedain/Hotel-Review-Based-Recommendation-System) : 호텔 리뷰 기반 만족도 예측 및 추천 시스템
+> - [Datacreator](https://github.com/wannabedain/Datacreator_2022_befour) : 이미지 분류 신경망 네트워크 모델링
+> - [Status_of_restaurant_industry](https://github.com/wannabedain/Current-status-of-the-restaurant-industry) : 신용카드로 보는 요식업 동향 분석
+> - [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석
+> - [prediction-of-airplane](https://github.com/wannabedain/prediction-of-airplane) : 비행기 가격은 왜 다를까?
 
 
 # Study
+> - [Job-Care-Recommendation-Algorithm](https://github.com/wannabedain/Job-Care-Recommendation-Algorithm) : 잡케어 추천 알고리즘 경진대회
 
 # 📜Certificate📜
+> - 사회조사분석사2급
 > - ADSP
 > - SQLD     
-> - Computer Specialist in Spreadsheet and Database Level 2
+> - 빅데이터분석기사
     
 <p>
 <br>
