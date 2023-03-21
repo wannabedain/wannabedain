@@ -51,6 +51,10 @@
 
 <br>
 
+# Activity
+> 수료
+
+
 # Certificate
 > 사회조사분석사2급 <br>
 > ADSP <br>
