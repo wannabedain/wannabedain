@@ -6,11 +6,11 @@
 </br></br></br>
 
 
-<h3 align="center">
-- 📈 statistics 
-- ❤️ I love writing 
-</h3>
+<h3 align="center"> - 📈 statistics  </h3>
+<h3 align="center"> - ❤️ I love writing </h3>
 
+
+<h3 align="center"> ================================ </h3>
 <h3 align="center"> 📚Tech Skills📚 </h3>
 <div align=center>     
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
