@@ -31,8 +31,8 @@
 ![wannabedain's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabedain)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&hide=javascript,css)
 
+<br>
 
-<h3 align="center">  
 # Project
 >  [Road diet](https://github.com/wannabedain/diet_2021) : 서울시 빅데이터 기반 도로 다이어트 권장 지역 모델
 >  [Minwon](https://github.com/wannabedain/minwon_2021) : [인천시청] 미추홀구 흡연 민원지역 분석 및 금연구역 추천
