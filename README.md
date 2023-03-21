@@ -48,7 +48,7 @@
 # Study
 >  [Job Care Recommendation Algorithm](https://github.com/wannabedain/Job-Care-Recommendation-Algorithm) : 잡케어 추천 알고리즘 경진대회  <br>
 >  [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석 <br><br>
-
+<br>
 
 
 # Activity
@@ -64,11 +64,12 @@
 > [2021] 성신금융연구회(S.Fin) & 전국 대학생 투자동아리 연합회(UIC) <br>
 > [2022] 펜실베니아 대학교 단기어학 프로그램(ELP) </br>
 > [2023] LG Aimers 2기 수료 </br>
+<br>
 
 
 # INTERN
 > [2021] 인천시청 데이터혁신관리팀 6개월 </br>
-
+<br>
 
 
 # Certificate
