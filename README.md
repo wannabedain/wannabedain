@@ -22,7 +22,7 @@
 
 <h3 align="center">🌈 About Me 🌈</h3>
 <p align="center">
-  <a href="https://www.instagram.com/dain_osaur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain_osaur/"/></a>&nbsp
+  <a href="https://www.instagram.com/dain_osaur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain__osaur/"/></a>&nbsp
   <a href="mailto:wjdekdls0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdekdls0000@gmail.com"/></a>
 </p>
 
@@ -53,14 +53,18 @@
 
 # Activity
 > [2020] 성신여대 총학생회 재정사무국원 / 축제기획단 / 기록물보관관리TF<br>
-> [2020] 티끌리안 서포터즈 2기 + 애널리스트 활동 (신한금융투자)<br>
-> [2020] 금융사관학교 42기 수료 <br>
+> [2020] 티클X신한금융투자 티끌리안 서포터즈 2기 + 애널리스트 활동 <br>
+> [2020] 금융사관학교 42기 국제경제전문가 과정 수료 <br>
+> [2020] 금융감독원 불법금융대응단 사무보조 아르바이트 <br>
 > [2021] 한국정보사회진흥원(NIA) 공공빅데이터 인턴십 교육 320H 수료<br>
+> [2021] 🏆️ 행정안전부,한국지능정보사진흥원 "데이터기반 행정으로 국민 삶의 질을 개선하라!" 데이턴십 해커톤 제4회 (최우수상) 🏆️ : "도로 다이어트" 권장지역 분석 <br>
+> [2021] 정보통신산업진흥원(NIPA) AI 온라인 실무 기본 교육과정 60H 수료<br>
 > [2021~2022] 성신여대 빅데이터 동아리 Daja-vu<br>
-> [2022] 성신금융연구회 & 전국투자동아리 <br>
+> [2022] 성신금융연구회(S.Fin) & 전국투자동아리 <br>
 
-## INTERN
+# INTERN
 > [2021] 인천시청 데이터혁신관리팀 6개월 <br>
+
 
 
 # Certificate
