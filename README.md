@@ -47,9 +47,9 @@
 
 # Study
 >  [Job Care Recommendation Algorithm](https://github.com/wannabedain/Job-Care-Recommendation-Algorithm) : 잡케어 추천 알고리즘 경진대회  <br>
->  [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석 <br>
+>  [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석 <br><br>
 
-<br>
+
 
 # Activity
 > [2020] 성신여대 총학생회 재정사무국원 / 축제기획단 / 기록물보관관리TF<br>
