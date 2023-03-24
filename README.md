@@ -1,5 +1,4 @@
 
-
 ### Hi there 👋
 
 <h1 align="center">   wannabedain : 언젠가는 되겠지 </h1>
@@ -32,7 +31,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&hide=javascript,css)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdekdls04)](https://solved.ac/wjdkedls04/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdekdls04)](https://solved.ac/wjdekdls04)
+
 
 
 
