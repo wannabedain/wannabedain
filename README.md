@@ -31,6 +31,11 @@
 ![wannabedain's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabedain)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&hide=javascript,css)
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tofuchu)](https://solved.ac/wjdkedls04/)
+
+
+
 <br>
 
 # Project
