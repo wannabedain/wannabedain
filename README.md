@@ -1,14 +1,14 @@
-
+<br>
 ### Hi there 👋
 
-<h1 align="center">   wannabedain : 언젠가는 되겠지 </h1>
+<h1>   wannabedain : 언젠가는 되겠지 </h1>
 </br>
 
-<h3 align="center"> - 📈 I am majoring in statistics  </h3>
+<h3> - 📈 I am majoring in statistics  </h3>
 </br>
 
-<h3 align="center"> 📚Tech Skills📚 </h3>
-<div align=center>     
+<h3>📚Tech Skills📚 </h3>
+<div >     
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
@@ -19,16 +19,15 @@
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">'
 </br></br>
 
-<h3 align="center">🌈 About Me 🌈</h3>
-<p align="center">
-
+<h3 >🌈 About Me 🌈</h3>
+<p >
   <a href="https://www.instagram.com/dain__osaur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain__osaur/"/></a>
   <a href="mailto:wjdekdls0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdekdls0000@gmail.com"/></a>
   <a href="https://public.tableau.com/app/profile/.46154044"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 </p>
 
 
-# INTERN
+### INTERN
 > 네이버클라우드 DATA BOX BUSINESS [2023.08 ~ 2024.02] </br>
 > 인천시청 데이터혁신관리팀 6개월 [2021.09 ~ 2022.02] </br>
 <br>
@@ -37,7 +36,7 @@
 
 <br>
 
-# Project
+### Project
 >  [Road diet](https://github.com/wannabedain/diet_2021) : 서울시 빅데이터 기반 도로 다이어트 권장 지역 모델 <br> 
 >  [Minwon](https://github.com/wannabedain/minwon_2021) : [인천시청] 미추홀구 흡연 민원지역 분석 및 금연구역 추천<br>
 >  [Improvement of Transportation Facilities for the Disabled](https://github.com/wannabedain/Improvement-of-Transportation-Facilities-for-the-Disabled)  : [인천시청]저상버스 운행노선 및 임차택시 중심 체류지 추천 <br>
@@ -71,14 +70,13 @@
 <br>
 
 
-# AWARD 🏆️
+# AWARD 
 
 > 교육부, 학교안전중앙회 "2023 안전사고 데이터 분석 활용 경진대회 (최우수상) <br>
 : "안전사고 솔루션" 대시보드 제작 <br>
 
 > 행정안전부,한국지능정보사진흥원 "데이터기반 행정으로 국민 삶의 질을 개선하라!" 데이턴십 해커톤 제4회 (최우수상) <br>
 : "도로 다이어트" 권장지역 분석 <br>
-
 
 
 # Certificate
