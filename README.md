@@ -1,6 +1,6 @@
 
 ## About Me
-wannabedain : 언젠가는 되겠지
+wannabedain : 언젠가는 되겠지<br> 
 ** Statistics & Data**
 + `2023.08 ~ 2024.02` 네이버클라우드 DBB 기획 인턴(DATA BOX BUSINESS)
 + `2021.09 ~ 2022.02` 인천광역시청 데이터혁신관리팀 인턴
