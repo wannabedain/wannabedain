@@ -1,11 +1,11 @@
 
 ## About Me
 wannabedain : 언젠가는 되겠지<br> 
-** Statistics & Data**
+**Statistics & Data**
 + `2023.08 ~ 2024.02` 네이버클라우드 DBB 기획 인턴(DATA BOX BUSINESS)
 + `2021.09 ~ 2022.02` 인천광역시청 데이터혁신관리팀 인턴
 
-** Activity **
+**Activity**
 + `2023.01 ~ 2024.01` 연합 빅데이터 동아리 보아즈(BOAZ) 시각화 20기
 + `2023.01 ~ 2023.02` LG Aimers 2기 수료
 + `2022.07 ~ 2022.08` University of Pennsylvania ELP(English Language Program) 수료
@@ -20,15 +20,13 @@ wannabedain : 언젠가는 되겠지<br>
 
 
 
-
-
-** Award ** 
+**Award** 
 + `2023.12` 2023 안전사고 데이터 분석 활용 경진대회(교육부, 학교안전중앙회 주관) [최우수상] 
 + `2021.08` 데이터기반 행정으로 국민 삶의 질을 개선하라!" 데이턴십 해커톤 제4회(행정안전부,한국지능정보사진흥원 주관) [최우수상]
 : "도로 다이어트" 권장지역 분석 <br>
 
 
-** Certificate** 
+**Certificate** 
 + `2022.12` 빅데이터분석기사(Engineer Big Data Analysis)
 + `2022.06` SQL 개발자(SQLD, SQL Developer)
 + `2021.04` 사회조사분석사 2급
