@@ -1,7 +1,6 @@
 <br>
 
 <h1>   wannabedain : 언젠가는 되겠지 </h1>
-</br>
 
 ## About Me
 ** Statistics & Data**
