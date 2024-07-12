@@ -21,7 +21,7 @@
 
 <h3 >🌈 About Me 🌈</h3>
 <p >
-  <a href="https://www.instagram.com/dain__osaur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain_0saur/"/></a>
+  <a href="https://www.instagram.com/dain_0saur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain_0saur/"/></a>
   <a href="mailto:wjdekdls0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdekdls0000@gmail.com"/></a>
   <a href="https://public.tableau.com/app/profile/.46154044"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 </p>
