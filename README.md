@@ -1,5 +1,4 @@
 <br>
-### Hi there 👋
 
 <h1>   wannabedain : 언젠가는 되겠지 </h1>
 </br>
@@ -7,7 +6,7 @@
 <h3> - 📈 I am majoring in statistics  </h3>
 </br>
 
-<h3>📚Tech Skills📚 </h3>
+<br> 📚Tech Skills📚 </br>
 <div >     
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
@@ -19,7 +18,7 @@
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">'
 </br></br>
 
-<h3 >🌈 About Me 🌈</h3>
+<br> 🌈 About Me  </br>
 <p >
   <a href="https://www.instagram.com/dain_0saur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain_0saur/"/></a>
   <a href="mailto:wjdekdls0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdekdls0000@gmail.com"/></a>
@@ -48,14 +47,14 @@
 <br>
 
 
-# Study
+### Study
 >  [Job Care Recommendation Algorithm](https://github.com/wannabedain/Job-Care-Recommendation-Algorithm) : 잡케어 추천 알고리즘 경진대회  <br>
 >  [Classifying Smart Factory Product Quality Status](https://github.com/wannabedain/Classifying-Smart-Factory-Product-Quality-Status) : 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤 <br>
 >  [Analysis of Korean Singers Community](https://github.com/wannabedain/school_work) : 한국 뮤지션 커뮤니티 분석 <br><br>
 <br>
 
 
-# Activity
+### Activity
 > [2020] 성신여대 총학생회 재정사무국원 / 축제기획단 / 기록물보관관리TF<br>
 > [2020] 티클X신한금융투자 티끌리안 서포터즈 2기 + 애널리스트 활동 <br>
 > [2020] 금융사관학교 42기 국제경제전문가 과정 수료 <br>
@@ -70,7 +69,7 @@
 <br>
 
 
-# AWARD 
+### AWARD 
 
 > 교육부, 학교안전중앙회 "2023 안전사고 데이터 분석 활용 경진대회 (최우수상) <br>
 : "안전사고 솔루션" 대시보드 제작 <br>
