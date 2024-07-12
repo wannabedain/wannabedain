@@ -9,7 +9,7 @@ wannabedain : 언젠가는 되겠지<br>
 **📚 Statistics & Data**
 + `2023.08 ~ 2024.02` 네이버클라우드 DBB 기획 인턴(DATA BOX BUSINESS)
 + `2021.09 ~ 2022.02` 인천광역시청 데이터혁신관리팀 인턴
-
+<br>
 
 **📚 Activity**
 + `2023.01 ~ 2024.01` 연합 빅데이터 동아리 보아즈(BOAZ) 시각화 20기
@@ -23,12 +23,13 @@ wannabedain : 언젠가는 되겠지<br>
 + `2020.06 ~ 2020.08` 티클X신한금융투자 티끌리안 서포터즈 2기 + 애널리스트 활동
 + `2020.03 ~ 2022.02` 성신여대 빅데이터 동아리 Daja-vu
 + `2019.12 ~ 2020.12` 성신여대 총학생회 재정사무국원 축제기획단 / 기록물보관관리TF
-
+<br>
 
 **🏆 Award** 
 + `2023.12` 2023 안전사고 데이터 분석 활용 경진대회(교육부, 학교안전중앙회 주관) [최우수상] 
 + `2021.08` 데이터기반 행정으로 국민 삶의 질을 개선하라!" 데이턴십 해커톤 제4회(행정안전부,한국지능정보사진흥원 주관) [최우수상]
 : "도로 다이어트" 권장지역 분석 <br>
+<br>
 
  
 **📋 Certificate** 
@@ -75,8 +76,7 @@ wannabedain : 언젠가는 되겠지<br>
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">'
-</br></br>
-
+</br>
 #### Contact  </br>
 <p >
   <a href="https://www.instagram.com/dain_0saur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dain_0saur/"/></a>
