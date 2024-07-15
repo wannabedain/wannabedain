@@ -92,7 +92,7 @@ wannabedain : 언젠가는 되겠지<br>
 <br>
 
 
-![wannabedain's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabedain)</br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdekdls0000)](https://solved.ac/wjdekdls0000)
+![wannabedain's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabedain)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdekdls04)](https://solved.ac/wjdekdls04)
 
 
