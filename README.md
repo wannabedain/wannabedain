@@ -44,6 +44,7 @@ wannabedain : 언젠가는 되겠지<br>
 <br>
 
 #### Project
+>  [BankFIT](https://github.com/ngoolglory/BankFit) : [SSAFY] BankFIT 금융 Web 개발 <br> 
 >  [Road diet](https://github.com/wannabedain/diet_2021) : 서울시 빅데이터 기반 도로 다이어트 권장 지역 모델 <br> 
 >  [Minwon](https://github.com/wannabedain/minwon_2021) : [인천시청] 미추홀구 흡연 민원지역 분석 및 금연구역 추천<br>
 >  [Improvement of Transportation Facilities for the Disabled](https://github.com/wannabedain/Improvement-of-Transportation-Facilities-for-the-Disabled)  : [인천시청]저상버스 운행노선 및 임차택시 중심 체류지 추천 <br>
